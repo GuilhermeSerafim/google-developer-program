@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Google ADK
+.adk/
+
+# IDE
+.vscode/
